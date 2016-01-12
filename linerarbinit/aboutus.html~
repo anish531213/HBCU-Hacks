@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>aboutus</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="copiedcss/skel-noscript.css" />
+			<link rel="stylesheet" href="copiedcss/style.css" />
+			<link rel="stylesheet" href="copiedcss/style-desktop.css" />
+			<link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css" rel="stylesheet">
+		</noscript>
+	</head>
+	<body>
+	
+
+      
+    
+    
+  </section>	
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
+				<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="../homepage/volunteer_home.html">Home</a></li>						
+						<li class="active"><a href="../linerar/Profile-anish.html">Profile</a></li>
+						<li class="active"><a href="aboutus.html">Our Story</a></li>
+						<li class="active"><a href="support.html">Support</a></li>
+						<li class="active"><a href="contact.html">Contact</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="container"> 
+				
+				<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#"> <p><p><p> </a></h1>
+					<span class="tag">  </span>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Main -->
+		<div id="main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Sidebar -->
+					<div id="sidebar" class="4u">
+						
+						<section>
+							<header>
+								<h2><a href = "#newsfeed">News</a></h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">Oct 21, 2015  |  (10 )  Followed By</p>
+									<p><a href="#">You are followed by ten people.</a></p>
+								</li>
+								<li>
+									<p class="posted">Oct 18, 2015  |  (10 )  Comments</p>
+									<p><a href="#">Five people have commented on your status.</a></p>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h2><a href = "#events">Events</a></h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">May 21, 2015  |  (10 )  Recent Activities</p>
+									<p><a href="#">Pictures from your recent activities are released.</a></p>
+								</li>
+								<li>
+									<p class="posted">May 18, 2015  |  (10 )  Comments</p>
+									<p><a href="#">You have got invitations for upcoming events.</a></p>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h2><a id = "events" href = "#events"><a href="contact.html">Contact Us</a></h2>
+							</header>
+							
+						</section>						
+						
+						
+						<section>
+						
+					</div>
+					
+					<!-- Content -->
+					<div id="content" class="8u skel-cell-important">
+						<section>
+													
+							<header>
+								<h2><p2 id="newsfeed"></p2></h2>
+								<p>
+								<span class="byline">You and our story.</span>
+								</p>
+							</header>
+						  	
+							<p><h4>Karety connects you to the world of philanthropy. We believe information should be accessible to you as efficiently and quickly as possible. We do not want you to stay away from your passion just because you do not have an interface to find what you’re looking for. With Karety, you can find organizations, events, and causes you wish to contribute to. Karety gives you an opportunity to transparently contribute to the world, to make a difference. You can meet people who share your interests. Get ready for life! Enjoy!</h4></p>
+							<p><h4>Make A Difference!</h4></p>
+							
+						  	
+							
+										
+						</section>
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	<!-- /Main -->
+ 
+
+	
+	<!-- Tweet -->
+		<div id="tweet">
+			<div class="container">
+				<section>
+					<blockquote>&ldquo;It didn’t occur to me until later that there’s another truth, very simple: greed in a good cause is still greed.&rdquo;</blockquote>
+				</section>
+			</div>
+		</div>
+	<!-- /Tweet -->
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<section>
+					<header>
+						<h2>Get in touch</h2>
+						<span class="byline">Connect with us in social media.</span>
+					</header>
+					<ul class="contact">
+						<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
+						<li class="active"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
+						<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
+						<li><a href="#" class="fa fa-tumblr"><span>Google+</span></a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	<!-- /Footer -->
+
+	
+
+	</body>
+</html>

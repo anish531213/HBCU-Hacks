@@ -1,0 +1,233 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>volunteers_home</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="copiedcss/skel-noscript.css" />
+			<link rel="stylesheet" href="copiedcss/style.css" />
+			<link rel="stylesheet" href="copiedcss/style-desktop.css" />
+			<link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css" rel="stylesheet">
+		</noscript>
+	</head>
+	<body>
+	
+
+      
+    
+    
+  </section>	
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
+				<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="volunteer_home.html">Home</a></li>						
+						<li class="active"><a href="../linerar/Profile-anish.html">Profile</a></li>
+						<li class="active"><a href="../linerarbinit/aboutus.html">Our Story</a></li>
+						<li class="active"><a href="../linerarbinit/support.html">Support</a></li>
+						<li class="active"><a href="../linerarbinit/contact.html">Contact</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="container"> 
+				
+				<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#"> <p><p><p> </a></h1>
+					<span class="tag">  </span>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Main -->
+		<div id="main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Sidebar -->
+					<div id="sidebar" class="4u">
+						
+						<section>
+							<header>
+								<h2><a href = "#newsfeed">News</a></h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">Oct 21, 2015  |  (10 )  Followed By</p>
+									<p><a href="#">You are followed by ten people.</a></p>
+								</li>
+								<li>
+									<p class="posted">Oct 18, 2015  |  (10 )  Comments</p>
+									<p><a href="#">Five people have commented on your status.</a></p>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h2><a href = "#events">Events</a></h2>
+							</header>
+							<ul class="style">
+								<li>
+									<p class="posted">May 21, 2015  |  (10 )  Recent Activities</p>
+									<p><a href="#">Pictures from your recent activities are released.</a></p>
+								</li>
+								<li>
+									<p class="posted">May 18, 2015  |  (10 )  Comments</p>
+									<p><a href="#">You have got invitations for upcoming events.</a></p>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h2><a id = "events" href = "../google login/profile.html">Invite Friends</a></h2>
+							</header>
+							
+						</section>
+						
+						<section>
+							<header>
+								<h2><a id = "events" >Recommended</a></h2>
+								<a href="../homepage/organization_home.html" ><h3>National Hearth Group</h3></a>
+							</header>
+							
+						</section>						
+						
+						
+						<section>
+						
+					</div>
+					
+					<!-- Content -->
+					<div id="content" class="8u skel-cell-important">
+						<section>
+													
+							<header>
+								<h2><p2 id="newsfeed">News Feed</p2></h2>
+								<p>
+								<span class="byline">INVESTING THROUGH A “GENDER LENS”</span>
+								<p>
+							</header>
+						  	
+							<p><h4>ELLEN REMMER had wanted to align her investments with her values for years, seeking to put her money into stocks and bonds that would have an impact beyond the returns. For her, this meant investing in organizations that either improved the lot of women and girls or helped the environment.<h4></p>
+							<p><h4>Doing so took longer than she expected. Even though it was her money, it was held in trust. She said it wasn’t easy....</h4></p>
+							<p><h4><a href ="http://www.nytimes.com/2015/08/15/your-money/with-an-eye-to-impact-investing-through-a-gender-lens.html?ref=topics
+" target="_blank">Readmore</a><h4><p>
+							
+							<header>
+								
+								<p><p><p>
+								<span class="byline">DON”T GIVE IT TILL IT HURTS</span>
+								<p>
+							</header>
+						  	
+							<p><h4>I love this time of year, except for one teeny, tiny thing: charitable giving guilt. You know exactly what I’m talking about. We’ve all walked past that red bucket without dropping in any money. We’ve all said “no” to those requests at the checkout counter to donate $1 to some worthy cause.
+
+Many of us got buried under giving guilt last week on Giving Tuesday. Social media was flooded with all sorts of calls to donate. I bet at least once that day, we</h4></p>
+							<p><h4>A friend of mine shared a story that captures this situation perfectly. Out shopping last week, she dropped some money into one of those red buckets. Luckily, the bell ringer hadn’t changed by the time she exited the store. She knew he remembered her donation. No guilt was felt. But then she went to a sec</h4></p>
+							<p><h4><a href ="http://www.nytimes.com/2014/12/08/your-money/dont-give-till-it-hurts.html?ref=topics
+" target="_blank">Readmore</a><h4><p>
+								
+								<header>
+								<p>
+								<span class="byline">IF GIVING FEELS SO GOOD, WHY DON”T WE DO IT?</span>
+								<p>
+							</header>
+						  	
+							<p><h4>In the Mormon Church, the first Sunday of each month is called Fast Sunday. As my kids have pointed out, however, it’s not because it goes by faster than any other Sunday. Quite the opposite, in fact.</h4></p>
+							<p><h4>It’s called Fast Sunday because members of the Church of Jesus Christ of Latter-day Saints, or Mormons, use it to fast. We go for a period of two meals without food or water. Then, we’re encouraged to take the money we would have spent on those meals, and more if possible, to make what we refer to as a fast offering. It’s used to care...</h4></p>
+							<p><h4><a href ="http://www.nytimes.com/2014/11/24/your-money/if-giving-feels-so-good-why-dont-we-do-it.html?ref=topics" target="_blank">Readmore</a><h4><p>
+							
+									
+						</section>				
+						
+						<section>
+													
+							<header>
+								<h2><p3 id = "events">Events</p3></h2>
+								<p>
+								<span class="byline">Volunteer for Greater Washington Heart Walk</span>
+								<p>
+							</header>
+						  	
+							<p><h4>Saturday, November 7, 2015 from 8:00 AM to 12:00 PM (EST)<h4></p>
+							<p><h4>Washington, DC<h4></p>
+							
+							
+							<header>
+								<span class="byline">3rd Annual Race for Every Woman 5k Run/Walk</span>
+							</header>
+						  	
+							<p><h4>Alpha Breast Cancer Support Services<h4></p>
+							<p><h4>Saturday, OCtober 10,2015 at 9:00 AM<h4></p>
+							</p><h4>Arlington, VA</h4></p>	
+							
+							<header>
+								<span class="byline">45 Reasons to Be Thankful, Celebrate ,Give and Live</span>
+							</header>
+						  	
+							<p><h4>Peppy Entertainment & Promotions, LLC<h4></p>
+							<p><h4>Wednesday, October 28, 2015 at 9:00 PM-Friday, November 27,2015 at 1:00 AM(EDT)<h4></p>
+							</p><h4>College Park, MD</h4></p>		
+							
+							<header>
+								<span class="byline">Third Annual Go Formal For Justice</span>
+							</header>
+						  	
+							<p><h4>DC Bar Foundation Young Lawyers Network<h4></p>
+							<p><h4>Saturday, October 17, 2015 at 8:00 PM (EDT)<h4></p>
+							</p><h4>Washington, DC</h4></p>		
+										
+						</section>
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	<!-- /Main -->
+ 
+
+	
+	<!-- Tweet -->
+		<div id="tweet">
+			<div class="container">
+				<section>
+					<blockquote>&ldquo;There is no exercise better for heart than reaching down and lifting people up.&rdquo;</blockquote>
+				</section>
+			</div>
+		</div>
+	<!-- /Tweet -->
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<section>
+					<header>
+						<h2>Get in touch</h2>
+						<span class="byline">Connect with us on social media.</span>
+					</header>
+					<ul class="contact">
+						<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
+						<li class="active"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
+						<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
+						<li><a href="#" class="fa fa-tumblr"><span>Google+</span></a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	<!-- /Footer -->
+
+	
+
+	</body>
+</html>
